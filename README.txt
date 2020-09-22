@@ -1,0 +1,1 @@
+Submission for the QC Mentorship program. Solution for task 1
